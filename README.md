@@ -1,4 +1,8 @@
 # mark_home_work
+screen for simple_figures </br>
+![image](https://user-images.githubusercontent.com/63554654/203239022-e6324760-2b93-482b-bce2-23ca375be7e6.png)
+
+
 screen for for_in_parking </br>
 ![image](https://user-images.githubusercontent.com/63554654/201582846-5371504c-c9f2-4374-b569-6151add9d666.png) </br>
 
