@@ -1,6 +1,11 @@
 # mark_home_work
+
+avg.group.mark
+![image](https://user-images.githubusercontent.com/63554654/208387619-14bd129f-3852-43a2-8d1a-928c53086db2.png)</br>
+
+
 screen for simple_figures </br>
-![image](https://user-images.githubusercontent.com/63554654/203239022-e6324760-2b93-482b-bce2-23ca375be7e6.png)
+![image](https://user-images.githubusercontent.com/63554654/203239022-e6324760-2b93-482b-bce2-23ca375be7e6.png)</br>
 
 
 screen for for_in_parking </br>
