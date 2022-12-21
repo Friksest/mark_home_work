@@ -1,6 +1,9 @@
 # mark_home_work
 
-avg.group.mark
+dict.presents </br>
+![image](https://user-images.githubusercontent.com/63554654/208859085-d395e3c2-33dd-4cfb-8bda-a58fa09b4221.png)</br>
+
+avg.group.mark</br>
 ![image](https://user-images.githubusercontent.com/63554654/208387619-14bd129f-3852-43a2-8d1a-928c53086db2.png)</br>
 
 
